@@ -1,2 +1,2 @@
 # youtube_downloader
-A simple youtube downloader made with tkinter
+A simple youtube video downloader made with tkinter
